@@ -12,7 +12,6 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<meta http-equiv="Refresh" content="3">
 ![](https://visitor-badge.glitch.me/badge?page_id=WalidDev1.WalidDev1)
 
 <br />
